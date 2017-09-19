@@ -1,0 +1,14 @@
+body {
+  font-size: 20px;
+  font-family: Geogia, serif;
+}
+
+body div {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#resultbox {
+  margin-top: 5%;
+  font-size: 1.5em;
+}
